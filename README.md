@@ -45,16 +45,15 @@ This style guide ensures:
 
 ***
 
-#### 🧾 About the Author <a href="#about-the-author" id="about-the-author"></a>
+### 🧾 About the Author <a href="#about-the-author" id="about-the-author"></a>
 
 This documentation is written and maintained by **Stuti**, a _Technical Writer and Content Strategist_ who specializes in creating structured, intuitive, and user-focused documentation for technology products.
 
 Her work bridges **technical accuracy** and **strategic communication**, helping readers — from end users to developers — understand, adopt, and engage with complex tools effortlessly.
 
-**Connect with the Author:**\
+#### **Connect with the Author:**
+
 💼 [LinkedIn](https://linkedin.com/in/stuti-sanghvi)\
 💌 [Email](mailto:stutisanghvi7@gmail.in)\
-🌐 [Notion Profile](https://www.notion.so/Stuti-Sanghvi-Content-Strategist-Technical-Writer-29cf34655bbd809589e7d360b8e98ed1)\
+🌐 [Portfolio (via Notion)](https://www.notion.so/Stuti-Sanghvi-Content-Strategist-Technical-Writer-29cf34655bbd809589e7d360b8e98ed1)\
 🔗 [GitHub](https://github.com/Stuti-ContentStrategist)
-
-Learn more → [About the Author](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/SujDvXvEbVunQ9a2s6Us/)​\
