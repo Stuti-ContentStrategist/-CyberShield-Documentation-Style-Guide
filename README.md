@@ -58,3 +58,5 @@ Her work focuses on creating **intuitive documentation systems** that help users
 **🌐** [**Portfolio (via Notion)**](https://www.notion.so/Stuti-Sanghvi-Content-Strategist-Technical-Writer-29cf34655bbd809589e7d360b8e98ed1)\
 **🔗** [**GitHub**](https://github.com/Stuti-ContentStrategist)
 
+Learn more → [**About the Author**](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/SujDvXvEbVunQ9a2s6Us/)
+
