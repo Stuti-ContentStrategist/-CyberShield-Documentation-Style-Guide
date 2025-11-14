@@ -2,7 +2,8 @@
 
 ## 🧱 Overview
 
-This section provides ready-to-use writing templates and content patterns for CyberShield documentation.\
+This section provides ready-to-use writing templates and content patterns for CyberShield documentation.
+
 Writers and editors can use these examples to maintain a consistent tone, structure, and formatting style across all product areas — including user guides, SDK docs, API references, and knowledge base articles.
 
 > 💡 **Tip:** Use these as blueprints — modify the examples only when a section’s context truly demands it.

@@ -79,7 +79,6 @@ To maintain consistency across all product documents, use the following standard
 * Use **en dashes (–)** for ranges → “10–15 seconds”
 * Use **em dashes (—)** for emphasis → “CyberShield — built for security — runs quietly in the background.”
 * Use **Oxford commas** → “Policies, alerts, and logs.”
-* Avoid exclamation marks (!) in technical writing.
 * Use quotation marks for UI text, not italics.
 
 > 🧠 **Info:** Punctuation should clarify, not decorate — prioritize readability.
