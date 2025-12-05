@@ -1,6 +1,6 @@
-# 🎨 Formatting & Visuals
+# Formatting & Visuals
 
-## 🧱 Overview
+## Overview
 
 The **Formatting & Visuals** section ensures that CyberShield documentation maintains a consistent, polished, and readable design across all pages.
 
@@ -10,7 +10,7 @@ It defines how to structure headings, emphasize text, use callouts, include visu
 
 ***
 
-#### 🧩 Headings
+### Headings
 
 Use headings to organize content logically. Each page should begin with a top-level (`#`) heading followed by meaningful subheadings.
 
@@ -25,7 +25,7 @@ Use headings to organize content logically. Each page should begin with a top-le
 
 ***
 
-#### 🔤 Text Formatting
+### Text Formatting
 
 | Element           | Usage                                   | Example                               |
 | ----------------- | --------------------------------------- | ------------------------------------- |
@@ -38,7 +38,7 @@ Use headings to organize content logically. Each page should begin with a top-le
 
 ***
 
-#### 🧱 Lists & Structure
+### Lists & Structure
 
 Use **numbered lists** for sequential instructions and **bulleted lists** for unordered items.
 
@@ -61,17 +61,15 @@ Use **numbered lists** for sequential instructions and **bulleted lists** for un
 
 ***
 
-#### 💬 Callouts
+### Callouts
 
 Callouts are a key visual element in CyberShield documentation. Use them to highlight key ideas, warnings, or best practices.
 
-| Type           | Icon | Usage                                  |
-| -------------- | ---- | -------------------------------------- |
-| 💡 **Tip**     | 💡   | Helpful hints or shortcuts             |
-| ⚠️ **Note**    | ⚠️   | Cautionary statements or limitations   |
-| 🧠 **Info**    | 🧠   | Background context or explanations     |
-| 🧾 **Example** | 🧾   | Real-world use case or sample          |
-| 🚫 **Warning** | 🚫   | Security risks or irreversible actions |
+| Type        | Icon | Usage                                |
+| ----------- | ---- | ------------------------------------ |
+| 💡 **Tip**  | 💡   | Helpful hints or shortcuts           |
+| ⚠️ **Note** | ⚠️   | Cautionary statements or limitations |
+| 🧠 **Info** | 🧠   | Background context or explanations   |
 
 **Example**
 
@@ -80,7 +78,7 @@ Callouts are a key visual element in CyberShield documentation. Use them to high
 
 ***
 
-#### 🧰 Tables
+### Tables
 
 Use tables for structured data — comparisons, settings, or parameters. Keep 2–4 columns for readability.
 
@@ -94,7 +92,7 @@ Use tables for structured data — comparisons, settings, or parameters. Keep 2�
 
 ***
 
-#### 🖼️ Visual Elements
+### Visual Elements
 
 **Screenshots**
 
@@ -117,11 +115,11 @@ Use tables for structured data — comparisons, settings, or parameters. Keep 2�
 
 ***
 
-#### 💻 Code Blocks
+### Code Blocks
 
 Use fenced code blocks for commands, configuration files, and JSON examples.
 
-**Example**
+#### **Example**
 
 ```bash
 # Start a security scan
@@ -141,7 +139,7 @@ Authorization: Bearer <access_token>
 
 ***
 
-#### 🔗 Links
+### Links
 
 | Type               | Usage                                   | Example                                                          |
 | ------------------ | --------------------------------------- | ---------------------------------------------------------------- |

@@ -1,6 +1,6 @@
-# ✍️ Tone & Voice
+# Tone & Voice
 
-## 🧱 Overview
+## Overview
 
 CyberShield documentation maintains a **professional yet approachable** tone. The goal is to help users — from IT administrators to developers — quickly understand features, configurations, and troubleshooting steps without unnecessary complexity.
 
@@ -10,7 +10,7 @@ Our voice reflects the product’s personality: **clear, confident, secure, and 
 
 ***
 
-#### 🗣️ Tone Guidelines
+### Tone Guidelines
 
 | Trait            | Description                                                | Example                                                                 |
 | ---------------- | ---------------------------------------------------------- | ----------------------------------------------------------------------- |
@@ -24,7 +24,7 @@ Our voice reflects the product’s personality: **clear, confident, secure, and 
 
 ***
 
-#### 🧩 Voice Principles
+### Voice Principles
 
 1.  **Clarity Over Cleverness**\
     Write for understanding, not for effect. Avoid unnecessary metaphors or marketing language.
@@ -45,7 +45,7 @@ Our voice reflects the product’s personality: **clear, confident, secure, and 
 
 ***
 
-#### ✉️ Example Rewrite
+### Example Rewrite
 
 | Weak Writing                                                      | Improved Writing                                                                 |
 | ----------------------------------------------------------------- | -------------------------------------------------------------------------------- |

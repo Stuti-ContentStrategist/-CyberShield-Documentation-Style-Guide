@@ -1,28 +1,28 @@
-# 🧰 CyberShield Documentation Style Guide
+# CyberShield Documentation Style Guide
 
-## 🧱 Overview
+## Overview
 
 The CyberShield Style Guide defines the writing, formatting, and design standards that ensure a clear, consistent, and user-friendly experience across all CyberShield documentation — including the User Guide, Knowledge Base, SDK Docs, API Reference, and Release Notes.
 
 It ensures that every page maintains a unified tone, visual structure, and technical accuracy, regardless of who created or edited it.
 
-💡 **Tip:** Refer to this Style Guide before writing new content or reviewing existing pages to maintain consistency across the entire suite.
+> 💡 **Tip:** Refer to this Style Guide before writing new content or reviewing existing pages to maintain consistency across the entire suite.
 
 ***
 
-### 🗂 Explore the Documentation
+### Explore the Documentation
 
-| Section                                                  | Description                                                                          |
-| -------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| [✍️ **Tone & Voice**](tone-and-voice.md)                 | Defines how CyberShield communicates — professional, approachable, and user-focused. |
-| [🔤 **Writing Conventions**](writing-conventions.md)     | Covers grammar, capitalization, terminology, and phrasing rules.                     |
-| [🎨 **Formatting & Visuals**](formatting-and-visuals.md) | Outlines layout rules including headings, tables, screenshots, icons, and callouts.  |
-| [⚙️ **Technical Standards**](technical-standards.md)     | Defines how to format code blocks, CLI examples, configurations, and API references. |
-| [🧩 **Examples & Templates**](examples-and-templates.md) | Provides reusable snippets and templates for writers to maintain consistency.        |
+| Section                                               | Description                                                                          |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| [**Tone & Voice**](tone-and-voice.md)                 | Defines how CyberShield communicates — professional, approachable, and user-focused. |
+| [**Writing Conventions**](writing-conventions.md)     | Covers grammar, capitalization, terminology, and phrasing rules.                     |
+| [**Formatting & Visuals**](formatting-and-visuals.md) | Outlines layout rules including headings, tables, screenshots, icons, and callouts.  |
+| [**Technical Standards**](technical-standards.md)     | Defines how to format code blocks, CLI examples, configurations, and API references. |
+| [**Examples & Templates**](examples-and-templates.md) | Provides reusable snippets and templates for writers to maintain consistency.        |
 
 ***
 
-### 🎯 Purpose of This Guide
+### Purpose of This Guide
 
 This style guide ensures:
 
@@ -35,7 +35,7 @@ This style guide ensures:
 
 ***
 
-### 🧭 Guiding Principles
+### Guiding Principles
 
 * **Consistency:** Use the same tone, structure, and formatting throughout all documents.
 * **Clarity:** Communicate in simple, direct language with minimal jargon.
@@ -45,9 +45,9 @@ This style guide ensures:
 
 ***
 
-### 🧾 About the Author <a href="#about-the-author" id="about-the-author"></a>
+### About the Author <a href="#about-the-author" id="about-the-author"></a>
 
-Stuti Sanghvi is a **technical writer and content strategist** who builds **clear, structured, and user-friendly** documentation experiences. She excels at translating complex concepts into accessible content that empowers users, supports teams, and strengthens product understanding.&#x20;
+Stuti Sanghvi is a **technical writer and content strategist** who builds **clear, structured, and user-friendly** documentation experiences. She excels at translating complex concepts into accessible content that empowers users, supports teams, and strengthens product understanding.
 
 Her work focuses on creating **intuitive documentation systems** that help users learn confidently and navigate with ease. She ensures **consistency in tone, structure, and formatting** across technical and marketing content.
 
@@ -59,4 +59,3 @@ Her work focuses on creating **intuitive documentation systems** that help users
 **🔗** [**GitHub**](https://github.com/Stuti-ContentStrategist)
 
 Learn more → [**About the Author**](https://app.gitbook.com/o/YBUOQjCTo1Lf6omt9Fkt/s/SujDvXvEbVunQ9a2s6Us/)
-

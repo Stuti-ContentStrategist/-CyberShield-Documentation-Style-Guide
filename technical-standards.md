@@ -1,6 +1,6 @@
-# ⚙️ Technical Standards
+# Technical Standards
 
-## 🧱 Overview
+## Overview
 
 The **Technical Standards** section defines how to document CyberShield’s developer-facing content — including code snippets, commands, APIs, configuration files, and parameters.
 
@@ -10,7 +10,7 @@ These standards ensure consistency, readability, and technical accuracy across S
 
 ***
 
-#### 💻 Code Formatting
+### Code Formatting
 
 Use **fenced code blocks** with language identifiers to enable syntax highlighting.
 
@@ -42,7 +42,7 @@ Content-Type: application/json
 
 ***
 
-#### 🧾 Command-Line Examples
+### Command-Line Examples
 
 Use **Bash syntax** for terminal commands and include relevant flags and parameters.
 
@@ -51,8 +51,6 @@ Use **Bash syntax** for terminal commands and include relevant flags and paramet
 ```bash
 cybershield-agent --scan --target 192.168.1.0/24 --profile full
 ```
-
-
 
 | Element                                       | Rule                              |
 | --------------------------------------------- | --------------------------------- |
@@ -64,7 +62,7 @@ cybershield-agent --scan --target 192.168.1.0/24 --profile full
 
 ***
 
-#### 🌐 API Documentation Standards
+### API Documentation Standards
 
 Document REST APIs using a consistent structure:
 
@@ -76,7 +74,7 @@ Document REST APIs using a consistent structure:
 | **Request Example**  | JSON or query-based input         |
 | **Response Example** | JSON structure of the return data |
 
-**Example**
+#### **Example**
 
 **Endpoint:** `POST /api/v1/scan/start`\
 **Description:** Starts a security scan for the specified target.
@@ -113,7 +111,7 @@ Document REST APIs using a consistent structure:
 
 ***
 
-#### ⚙️ Configuration Files
+### Configuration Files
 
 Use **YAML** or **JSON** syntax highlighting for configuration samples.
 
@@ -126,8 +124,6 @@ agent:
   alert_threshold: high
 ```
 
-
-
 | Rule                                         | Example                       |
 | -------------------------------------------- | ----------------------------- |
 | Use indentation consistently (2 spaces).     | ✅ Proper YAML format          |
@@ -138,7 +134,7 @@ agent:
 
 ***
 
-#### 📋 Parameter Tables
+### Parameter Tables
 
 Use consistent structure when listing command-line or API parameters.
 
@@ -151,7 +147,7 @@ Use consistent structure when listing command-line or API parameters.
 
 ***
 
-#### 🧠 Error & Output Examples
+### Error & Output Examples
 
 Include sample error messages or logs for reference.
 
@@ -165,8 +161,6 @@ Include sample error messages or logs for reference.
 }
 ```
 
-
-
 | Guideline                                       | Description                           |
 | ----------------------------------------------- | ------------------------------------- |
 | Include timestamps only if relevant.            | `"timestamp": "2025-11-09T14:22:00Z"` |
@@ -177,7 +171,7 @@ Include sample error messages or logs for reference.
 
 ***
 
-#### 🧩 Cross-Referencing
+### Cross-Referencing
 
 When referencing related content:
 

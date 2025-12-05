@@ -1,6 +1,6 @@
-# 🔤 Writing Conventions
+# Writing Conventions
 
-## 🧱 Overview
+## Overview
 
 The **Writing Conventions** section ensures consistency across all CyberShield documentation.\
 It defines how to use capitalization, punctuation, tenses, numbers, terminology, and naming conventions so that every document reflects the same professional standard.
@@ -9,7 +9,7 @@ It defines how to use capitalization, punctuation, tenses, numbers, terminology,
 
 ***
 
-#### ✍️ General Grammar Rules
+### General Grammar Rules
 
 | Rule                              | Example                                   | Avoid                                                                        |
 | --------------------------------- | ----------------------------------------- | ---------------------------------------------------------------------------- |
@@ -21,7 +21,7 @@ It defines how to use capitalization, punctuation, tenses, numbers, terminology,
 
 ***
 
-#### 🔡 Capitalization
+### Capitalization
 
 | Element                 | Rule                                                                     | Example                                                                             |
 | ----------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
@@ -35,7 +35,7 @@ It defines how to use capitalization, punctuation, tenses, numbers, terminology,
 
 ***
 
-#### 🔢 Numbers & Measurements
+### Numbers & Measurements
 
 | Rule                                                                   | Example                                               |
 | ---------------------------------------------------------------------- | ----------------------------------------------------- |
@@ -46,7 +46,7 @@ It defines how to use capitalization, punctuation, tenses, numbers, terminology,
 
 ***
 
-#### 🧩 Terminology
+### Terminology
 
 To maintain consistency across all product documents, use the following standard terms:
 
@@ -62,7 +62,7 @@ To maintain consistency across all product documents, use the following standard
 
 ***
 
-#### 🧾 Lists and Bullets
+### Lists and Bullets
 
 | Type                         | Use Case                                      | Example                                                      |
 | ---------------------------- | --------------------------------------------- | ------------------------------------------------------------ |
@@ -74,7 +74,7 @@ To maintain consistency across all product documents, use the following standard
 
 ***
 
-#### ✍️ Punctuation & Symbols
+### Punctuation & Symbols
 
 * Use **en dashes (–)** for ranges → “10–15 seconds”
 * Use **em dashes (—)** for emphasis → “CyberShield — built for security — runs quietly in the background.”
