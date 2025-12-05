@@ -190,7 +190,7 @@ Use a short footer on long technical pages for consistency.
 ```markdown
 ---
 
-📘 **Related Topics:**  
+      **Related Topics:**  
 - [Developer Reference → Authentication](../developer-reference/authentication.md)  
 - [API Reference → Error Codes](../api-reference/error-codes.md)  
 - [Knowledge Base → FAQs](../knowledge-base/faqs.md)
